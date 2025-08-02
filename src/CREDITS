@@ -1,0 +1,15 @@
+  This file lists entities that have contributed to <NAME>.
+  Formatted by fields for easier automated parsing.
+  New entries are added at the end.
+  The fields are to appear respectively:
+  - name (N)
+  - email (E)
+  - web address (W)
+  - description (D)
+  - PGP key fingerprint (P)
+  - country of origin (C)
+  - affiliation or organization (O)
+  - address (A)
+  - year of first contribution (Y)
+
+---
