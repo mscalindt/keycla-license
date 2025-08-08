@@ -7,21 +7,20 @@ to the following terms:
 1. The Contributor grants the Project a perpetual, worldwide,
    non-exclusive, royalty-free, irrevocable right to use, reproduce,
    modify, distribute, and sublicense their contribution under
-   the KEYCLA license.
+   the KEYCLA License.
 
-2. Contributions explicitly associated with a PGP public key fingerprint
-   entry in the top-level "CREDITS" file shall remain the copyright of
-   the Contributor and be licensed to the Project under
-   the KEYCLA license.
+2. Contributions explicitly associated with a copyright notice in
+   the "LICENSE" file shall remain the property of the Contributor
+   and be licensed to the Project under the KEYCLA License.
 
 3. The Contributor represents and warrants that they are the sole author
    of their contribution, that it is original to them, and that it
    does not infringe upon any third-party rights.
 
-Contributions not explicitly associated with a PGP public key
-fingerprint entry in the top-level "CREDITS" file shall be considered
-donated to the Project without copyright retention by the Contributor
-under the KEYCLA license.
+Contributions not explicitly associated with a copyright notice in
+the "LICENSE" file shall be considered donated to the Project
+without copyright retention by the Contributor, under
+the KEYCLA License.
 
 By submitting a contribution, the Contributor accepts and is bound
 by this agreement; no additional signature or document is required.
