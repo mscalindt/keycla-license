@@ -1,0 +1,24 @@
+The license in its crux is a simple, permissive blend of the BSD-0 and BSD-2
+licenses, where the copyright is both implicit and optional, until (in cases
+where the BSD-2 functionality is desired) directly supplied and thus clarified
+in the license file itself.
+
+Here is a detailed breakdown of the peculiarities and any differences:
+
+(1) The license name hints at a CLA (Contributor License Agreement) document,
+    an ancillary part of licensing. KEYCLA specifically, due to its licensing
+    conditions, can accommodate two very simple forms of CLA. And in fact, for
+    convenience, they have already been crafted and included as ready-to-use
+    templates, in the license source directory.
+
+(2) The license disclaimer is noticeably short compared to either BSD-0/BSD-2,
+    mostly blending seamlessly with any general license disclaimer text, while
+    remaining completely identical in function and intent. In practice,
+    concerning the binary clause, shipping any general disclaimer text
+    will satisfy the requirement of the license to redistribute the disclaimer.
+
+(3) The license omits 'this list of conditions' as a sub requirement in
+    the binary clause. In comparison, the BSD-2 does state that; in practice,
+    the requirement is satisfied and respected by shipping the license text.
+    The omission in KEYCLA therefore serves to remove any such requirement
+    whatsoever.
